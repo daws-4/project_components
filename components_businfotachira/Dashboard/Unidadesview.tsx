@@ -2,7 +2,7 @@
 import dynamic from "next/dynamic";
 import React from "react";
 import Link from "next/link";
-import CardData from "../CardData";
+import CardData from "../components/CardData";
 import axios from "axios";
 import { toast } from "react-toastify";
 import { useEffect, useState } from "react";
